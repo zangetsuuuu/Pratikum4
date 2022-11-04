@@ -43,3 +43,5 @@ Output:
 Output:
 
 ![UrutanBilangan(6)](https://user-images.githubusercontent.com/115514467/200027756-b3560bf9-5197-4d6d-bc97-437f1aa198df.jpg)
+
+### Sekian, terimakasih.
